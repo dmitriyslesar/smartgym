@@ -29,21 +29,21 @@ export function useAuth() {
 
 export const products = {
   power: [
-    { id: 'tyaga-sverhu', name: 'Тяга сверху', price: '9 350 000', image: '/images/Тяга сверху.png', category: 'power', backLink: '/catalog/silovye' },
-    { id: 'zhim-ot-plech', name: 'Жим от плеч', price: '9 650 000', image: '/images/Жим от плеч.png', category: 'power', backLink: '/catalog/silovye' },
-    { id: 'razgibanie-nog', name: 'Разгибание ног', price: '8 950 000', image: '/images/разгибание ног.png', category: 'power', backLink: '/catalog/silovye' },
-    { id: 'zhim-nogami', name: 'Жим ногами', price: '9 730 500', image: '/images/Жим ногами.png', category: 'power', backLink: '/catalog/silovye' },
+    { id: 'tyaga-sverhu', name: 'Тяга сверху', price: '9 350 000', image: '/images/Тяга сверху.webp', category: 'power', backLink: '/catalog/silovye' },
+    { id: 'zhim-ot-plech', name: 'Жим от плеч', price: '9 650 000', image: '/images/Жим от плеч.webp', category: 'power', backLink: '/catalog/silovye' },
+    { id: 'razgibanie-nog', name: 'Разгибание ног', price: '8 950 000', image: '/images/разгибание ног.webp', category: 'power', backLink: '/catalog/silovye' },
+    { id: 'zhim-nogami', name: 'Жим ногами', price: '9 730 500', image: '/images/Жим ногами.webp', category: 'power', backLink: '/catalog/silovye' },
   ],
   cardio: [
-    { id: 'begovaya-dorozhka', name: 'Беговая дорожка', price: '3 100 000', image: '/images/беговая.png', category: 'cardio', backLink: '/catalog/cardio' },
-    { id: 'velotrenazher', name: 'Велотренажер', price: '3 430 000', image: '/images/велосипед.png', category: 'cardio', backLink: '/catalog/cardio' },
-    { id: 'grebnoy-trenazher', name: 'Гребной тренажер', price: '2 890 000', image: '/images/гребной.png', category: 'cardio', backLink: '/catalog/cardio' },
-    { id: 'skalolaz', name: 'Скалолаз', price: '3 000 000', image: '/images/скалолаз.png', category: 'cardio', backLink: '/catalog/cardio' },
+    { id: 'begovaya-dorozhka', name: 'Беговая дорожка', price: '3 100 000', image: '/images/беговая.webp', category: 'cardio', backLink: '/catalog/cardio' },
+    { id: 'velotrenazher', name: 'Велотренажер', price: '3 430 000', image: '/images/велосипед.webp', category: 'cardio', backLink: '/catalog/cardio' },
+    { id: 'grebnoy-trenazher', name: 'Гребной тренажер', price: '2 890 000', image: '/images/гребной.webp', category: 'cardio', backLink: '/catalog/cardio' },
+    { id: 'skalolaz', name: 'Скалолаз', price: '3 000 000', image: '/images/скалолаз.webp', category: 'cardio', backLink: '/catalog/cardio' },
   ],
   frames: [
-    { id: 'kachayushchiysya', name: 'Качающийся тренажер', price: '10 220 000', image: '/images/Качающийся тренер.png', category: 'frames', backLink: '/catalog/ramy' },
-    { id: 'troynoy', name: 'Тройной тренажер', price: '27 550 000', image: '/images/тройной тренажер.png', category: 'frames', backLink: '/catalog/ramy' },
-    { id: 'multi-trainer', name: 'Мульти-трейнер', price: '9 580 000', image: '/images/мульти-трейнер.png', category: 'frames', backLink: '/catalog/ramy' },
+    { id: 'kachayushchiysya', name: 'Качающийся тренажер', price: '10 220 000', image: '/images/Качающийся тренер.webp', category: 'frames', backLink: '/catalog/ramy' },
+    { id: 'troynoy', name: 'Тройной тренажер', price: '27 550 000', image: '/images/тройной тренажер.webp', category: 'frames', backLink: '/catalog/ramy' },
+    { id: 'multi-trainer', name: 'Мульти-трейнер', price: '9 580 000', image: '/images/мульти-трейнер.webp', category: 'frames', backLink: '/catalog/ramy' },
   ],
 };
 
